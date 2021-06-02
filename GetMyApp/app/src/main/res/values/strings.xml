@@ -69,6 +69,7 @@
         <item>Cat</item>
         <item>Rabbit</item>
         <item>Bird</item>
+        <item>Other</item>
     </string-array>
 
     <string name="colour">Colour</string>
@@ -81,6 +82,7 @@
         <item>Blond</item>
         <item>Yellow</item>
         <item>Grey</item>
+        <item>Other</item>
     </string-array>
 
     <string name="region">Region</string>
@@ -95,6 +97,7 @@
         <item>Tirol</item>
         <item>Vorarlberg</item>
         <item>Wien</item>
+        <item>Other</item>
     </string-array>
 
     <string name="breed">Breed</string>

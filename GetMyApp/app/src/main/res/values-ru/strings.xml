@@ -84,7 +84,9 @@
         <item>Кот</item>
         <item>Кролик</item>
         <item>Птица</item>
+        <item>Другие</item>
     </string-array>
+
     <string-array name="colours_array">
         <item>Выберите цвет</item>
         <item>коричневый</item>
@@ -94,6 +96,7 @@
         <item>Блондинка</item>
         <item>Желтый</item>
         <item>Серый</item>
+        <item>Другие</item>
     </string-array>
 
     <string-array name="regions_array">
@@ -107,6 +110,7 @@
         <item>Tirol</item>
         <item>Vorarlberg</item>
         <item>Wien</item>
+        <item>Другие</item>
     </string-array>
 
     <string name="login_error_username">Пользователь не существует</string>
